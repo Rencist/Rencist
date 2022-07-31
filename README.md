@@ -3,11 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rencist&label=Profile%20views&color=0e75b6&style=flat" alt="rencist" /> </p>
 
-- I’m currently working on [schematics](schematics.its.ac.id)
+- I'm studying at **Institut Teknologi Sepuluh Nopem**
 
 - I’m currently learning **javascript**
-
-- I'm studying at **Institut Teknologi Sepuluh Nopember**
 
 - Ask me anything about **php and laravel**
 
