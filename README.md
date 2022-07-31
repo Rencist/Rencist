@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rencist&label=Profile%20views&color=0e75b6&style=flat" alt="rencist" /> </p>
 
-- I'm studying at **Institut Teknologi Sepuluh Nopem**
+- I'm studying at **Institut Teknologi Sepuluh Nopember**
 
-- I’m currently learning **javascript**
+- I’m currently learning **Javascript**
 
-- Ask me anything about **php and laravel**
+- Ask me anything about **PHP and Laravel**
 
 - How can reach me **dafianakhdan@gmail.com**
 
