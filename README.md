@@ -7,7 +7,7 @@
 
 - I’m currently learning **Javascript**
 
-- Ask me anything about **PHP and Laravel**
+- Ask me anything about **Manga**
 
 - How can reach me **dafianakhdan@gmail.com**
 
