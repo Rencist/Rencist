@@ -5,7 +5,7 @@
 
 - I'm studying at **Institut Teknologi Sepuluh Nopember**
 
-- I’m currently learning **Javascript**
+- I’m currently learning **Typescripts**
 
 - Ask me anything about **Manga**
 
