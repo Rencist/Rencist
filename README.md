@@ -1,4 +1,4 @@
-<h1 align="center">Hewo, my name is Dafian</h1>
+<h1 align="center">Haiya, my name is Dafian</h1>
 <h3 align="center">I'm just a boring human being that writes code</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rencist&label=Profile%20views&color=0e75b6&style=flat" alt="rencist" /> </p>
@@ -10,8 +10,6 @@
 - Ask me anything about **Manga**
 
 - How can reach me **dafianakhdan@gmail.com**
-
-- Fun fact **Urara Shiraishi is my wife**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
