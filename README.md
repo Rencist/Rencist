@@ -1,4 +1,4 @@
-<h1 align="center">Haiya, my name is Dafian</h1>
+<h1 align="center">Dafian is here and my life is good</h1>
 <h3 align="center">I'm just a boring human being that writes code</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rencist&label=Profile%20views&color=0e75b6&style=flat" alt="rencist" /> </p>
