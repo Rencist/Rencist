@@ -1,4 +1,4 @@
-<h1 align="center">Dafian is here and my life is good</h1>
+<h1 align="center">You can't gain something, without giving something in return</h1>
 <h3 align="center">just a boring human being that writes code</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rencist&label=Profile%20views&color=0e75b6&style=flat" alt="rencist" /> </p>
