@@ -1,1 +1,1 @@
-<h3 align="center">just a boring human being that writes code</h3>
+<h3 align="center">Who is Nijika? For the blind, she is vision. For the hungry, she is the chef. For the thirsty, she is water. If Nijika thinks, I agree. If Nijika speaks, I’m listening. If Nijika has a million fans, I am one of them. If Nijika has ten fans, I am one of them. If Nijika has only one fan, that is me. If Nijika has no fans, I no longer exist. If the whole world is against Nijika, I am against the whole world. I will love Nijika until my very last breath.</h3>
